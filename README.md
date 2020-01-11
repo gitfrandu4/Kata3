@@ -25,11 +25,11 @@ En nuestra aplicación, Kata3, el orden seguido es:
 3. Insertar en el **Panel** un **Chart** de tipo **JFreeChart**
 4. Crear un **Dataset** de tipo **DefaultCategoryDataset**
 
-<img src="C:\Users\jdelh\Dropbox\40822 - Ingeniería de Software II\Prácticas en Laboratorio\Kata3\Kata3\imgs\ejemplo_kata3.png" alt="ejemplo_kata3" style="zoom:75%;" />
+<img src="https://github.com/gitfrandu4/Kata3/blob/master/imgs/ejemplo_kata3.png" alt="ejemplo_kata3" style="zoom:75%;" />
 
 ### Kata3 versión 1
 
-<img src="C:\Users\jdelh\Dropbox\40822 - Ingeniería de Software II\Prácticas en Laboratorio\Kata3\Kata3\imgs\Kata3_v1.png" alt="Kata3_v1" style="zoom:75%;" />
+<img src="https://github.com/gitfrandu4/Kata3/blob/master/imgs/Kata3_v1.png" alt="Kata3_v1" style="zoom:75%;" />
 
 De forma general, el esquema a seguir es el siguiente:
 
@@ -50,7 +50,7 @@ De forma general, el esquema a seguir es el siguiente:
 
 ### Kata3 versión 2
 
-<img src="C:\Users\jdelh\Dropbox\40822 - Ingeniería de Software II\Prácticas en Laboratorio\Kata3\Kata3\imgs\Kata3_v2.png" alt="Kata3_v1" style="zoom:75%;" />
+<img src="https://github.com/gitfrandu4/Kata3/blob/master/imgs/Kata3_v2.png" alt="Kata3_v1" style="zoom:75%;" />
 
 De forma general, el esquema a seguir es el siguiente:
 
